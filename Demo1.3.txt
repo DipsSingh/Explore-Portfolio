@@ -1,1 +1,24 @@
 Here created version 1.3 ....
+for adding multiple files 
+git add -A
+
+and for commiting multiple files 
+git commit -a -m "required"
+
+git log 
+gives the detail status of the commited files
+
+git status 
+tells you which files added to index and ready to commit.
+
+parallel Development or non linear devlopment
+Branching
+Branches are pointers to a specific commit
+local branches : only in your local repo
+remote tracking branches : connect your local repo with central repo
+
+we are in master branch by default
+
+to change branch
+git branch Firstbranch
+git checkout FirstBranch

@@ -1,24 +1,29 @@
 Here created version 1.3 ....
-for adding multiple files 
-git add -A
 
-and for commiting multiple files 
-git commit -a -m "required"
+i have done branching 
+created branch by following command 
+git branch firstbranch
 
-git log 
-gives the detail status of the commited files
+working into the branch by following command
+git checkout firstbranch 
 
-git status 
-tells you which files added to index and ready to commit.
+coming out from the branch 
+git checkout main
 
-parallel Development or non linear devlopment
-Branching
-Branches are pointers to a specific commit
-local branches : only in your local repo
-remote tracking branches : connect your local repo with central repo
+learning merging
+it is a way of combine the work of different branches together.
 
-we are in master branch by default
+Allows to branch off , develop a new feature & combine it back in.
 
-to change branch
-git branch Firstbranch
-git checkout FirstBranch
+git stash 
+git stash temporarily shelves changes you have made to your working copy so you can workon something else and then comeback and reapply them later on.
+
+
+back to merging
+my demo1.4 is in my new branch firstbranch and it is not in main branch... if i have to add it to main branch i will use command git merge command and give name of the file
+we want to merge our new branch work into main or master branch , so master is our destination , so always checkout in destination branch in this case main.
+git merge firstbranch
+if we wants to changes in demo1.4 which is in first branch ..it would affect main brancg demo1.4
+
+
+

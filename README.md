@@ -1,24 +1,25 @@
 <!-- Profile banner / photo -->
 <p align="center">
-  <img src="SAM_0218.JPG" alt="Dipti Singh" width="150" style="border-radius:50%">
+  <img src="Dips.JPG" alt="Dipti Singh" width="150" style="border-radius:50%">
 </p>
 
 <h1 align="center">Hi, I'm Dipti Singh 👋</h1>
-<h3 align="center">Simplifying Learning · Amplifying Impact</h3>
+<h3 align="center">Designing Learning. Driving Growth.</h3>
 
 ---
 
 ## 👩‍🏫 About Me  
-I am a former **Computer Science & AI Educator** and **Academic Coordinator**, now transitioning into **Instructional Design**.  
-My journey blends **teaching expertise, creativity, and technology skills**—which is why ID is the perfect career path for me.  
+I am a future-ready **Instructional Designer**, transitioning my experience as a **Computer Science & AI Educator**  into the world of digital learning design.
+My journey blends **teaching expertise, creativity, and technology skills**, enabling me to design impactful learning experiences for the future of education and corporate training.
+
 
 During my ID training, I discovered my passion for **designing engaging, learner-focused experiences** that bring concepts alive on digital platforms. I enjoy applying **ID models** and using creative tools to turn learning into impactful journeys.  
 
-🌟 My goal: to craft **innovative learning solutions** that merge pedagogy, creativity, and technology.
+ My goal: to craft **innovative learning solutions** that merge pedagogy, creativity, and technology.
 
 ---
 
-## 🛠️ Skills & Tools  
+##Skills & Tools  
 
 - **Instructional Design Models**: ADDIE, Bloom’s Taxonomy, Gagné’s Nine Events, ARCS, Kirkpatrick’s Model  
 - **Tools & Platforms**: PowerPoint (for Storyboarding), Articulate Storyline, Moodle, GitHub  
@@ -33,21 +34,23 @@ During my ID training, I discovered my passion for **designing engaging, learner
 
 ---
 
-## 📂 Portfolio  
+## Portfolio  
 
 Explore my Instructional Design work, organized into subfolders for easy navigation:  
 
 👉 [**Portfolio Folder**](./portfolio)  
 
 *Includes:*  
-- **Curriculum Design (CD)**  
-- **Detailed Design Document (DDD)**  
-- **Storyboards (SB)**  
-- **Articulate Storyline projects** (coming soon!)  
+- **In-class Assignments** – Practice exercises where I applied Curriculum Design (CD), Detailed Design Documents (DDD), and Storyboards (SB) for both ILT and WBT contexts.
+
+-**Capstone Project** – End-to-end design of a learning program, including analysis, CD, DDD, SB, and evaluation framework.
+
+-**Gen AI Module** – Designed learning content focused on Generative AI, using ID principles and digital storytelling.
+
+-**Agentic AI Module** – Created module structure and storyboard for explaining AI agents and agentic workflows in learning.
 
 ---
-
-## 📬 Connect With Me  
+##  Connect With Me  
 
 - 📧 Email: diptichouhan.singh@gmail.com 
 - 💼 LinkedIn: www.linkedin.com/in/dipti-singh-6421a62a0  

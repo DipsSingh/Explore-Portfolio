@@ -43,12 +43,11 @@ During my ID training, I discovered my passion for **designing engaging, learner
 
 ---
 
-## Portfolio  
+## ## 📂 Portfolio  
 
 Explore my Instructional Design work, organized into subfolders for easy navigation:  
 
-👉 **Portfolio Folder**
-<a href="Portfolio/" title="Explore my portfolio"> </a>
+👉 [**Portfolio Folder**](./Portfolio)  
 
 *Includes:*  
 -**In class Assignments** – Practice exercises where I applied Curriculum Design (CD), Detailed Design Documents (DDD), and Storyboards (SB) for both ILT and WBT contexts.
@@ -58,6 +57,7 @@ Explore my Instructional Design work, organized into subfolders for easy navigat
 -**Gen AI Module** – Designed learning content focused on Generative AI, using ID principles and digital storytelling.
 
 -**Agentic AI Module** – Created module structure and storyboard for explaining AI agents and agentic workflows in learning.
+➡️ [Go to Portfolio](./Portfolio)
 
 ---
 ##  Connect With Me  

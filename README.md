@@ -27,9 +27,9 @@ During my ID training, I discovered my passion for **designing engaging, learner
 
 <p>
   <!-- Badges for visual appeal -->
-  <img src="https://img.shields.io/badge/Instructional%20Design-ADDIE-blue" alt=" ADDIE"> 
+  <img src="https://img.shields.io/badge/Instructional%20Design-ADDIE-blue" alt=" ADDIE"> <br>
   
-  <img src="https://img.shields.io/badge/Models-Bloom%2C%20Gagne%2C%20ARCS%2C%20Kirkpatrick-orange" alt="Models ">
+  <img src="https://img.shields.io/badge/Models-Bloom%2C%20Gagne%2C%20ARCS%2C%20Kirkpatrick-orange" alt="Models "><br>
   
   <img src="https://img.shields.io/badge/Tools-Storyline%2C%20Moodle%2C%20PPT-green" alt="Tools">
 </p>

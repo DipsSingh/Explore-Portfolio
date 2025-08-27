@@ -47,7 +47,7 @@ During my ID training, I discovered my passion for **designing engaging, learner
 
 Explore my Instructional Design work, organized into subfolders for easy navigation:  
 
-👉 [**Portfolio Folder**](./portfolio)  
+👉 [**Portfolio Folder**]<a href="Portfolio/" title="Click to explore my portfolio"> </a>
 
 *Includes:*  
 -**In class Assignments** – Practice exercises where I applied Curriculum Design (CD), Detailed Design Documents (DDD), and Storyboards (SB) for both ILT and WBT contexts.

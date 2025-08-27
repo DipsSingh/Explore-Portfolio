@@ -28,7 +28,7 @@ During my ID training, I discovered my passion for **designing engaging, learner
 
 <p>
   <!-- Instructional Models -->
-  <img src="https://img.shields.io/badge/Models-ADDIE%2C%20SAM%2C%20Kemp-blue" alt="Instructional Models"> <br>
+  <img src="https://img.shields.io/badge/Models-ADDIE%2C%20SAM%2C%20-blue" alt="Instructional Models"> <br>
   
   <!-- Instructional Theories -->
   <img src="https://img.shields.io/badge/Theories-Bloom%2C%20Gagne%2C%20ARCS%2C%20Kirkpatrick-purple" alt="Instructional Theories"><br>

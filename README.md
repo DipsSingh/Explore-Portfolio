@@ -3,7 +3,7 @@
   <img src="Dips.JPG" alt="Dipti Singh" width="150" style="border-radius:50%">
 </p>
 
-<h1 align="center">Hi, I'm Dipti Singh 👋</h1>
+<h1 align="center">Hey, I'm Dipti Singh 👋</h1>
 <h3 align="center">Designing Learning. Driving Growth.</h3>
 
 ---
@@ -28,10 +28,10 @@ During my ID training, I discovered my passion for **designing engaging, learner
 
 <p>
   <!-- Instructional Models -->
-  <img src="https://img.shields.io/badge/Models-ADDIE%2C%20SAM%2C%20Kemp-blue" alt="Instructional Models">
+  <img src="https://img.shields.io/badge/Models-ADDIE%2C%20SAM%2C%20Kemp-blue" alt="Instructional Models"> <br>
   
   <!-- Instructional Theories -->
-  <img src="https://img.shields.io/badge/Theories-Bloom%2C%20Gagne%2C%20ARCS%2C%20Kirkpatrick-purple" alt="Instructional Theories">
+  <img src="https://img.shields.io/badge/Theories-Bloom%2C%20Gagne%2C%20ARCS%2C%20Kirkpatrick-purple" alt="Instructional Theories"><br>
   
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Tools-Storyline%2C%20Moodle%2C%20PPT-green" alt="Instructional Tools">

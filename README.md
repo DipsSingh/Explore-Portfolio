@@ -21,15 +21,15 @@ During my ID training, I discovered my passion for **designing engaging, learner
 
 ##Skills & Tools  
 
-- **Instructional Design Models**: ADDIE, Bloom’s Taxonomy, Gagné’s Nine Events, ARCS, Kirkpatrick’s Model  
+- **Instructional Design Models**: ADDIE,  Bloom’s Taxonomy,  Gagné’s Nine Events,  ARCS,  Kirkpatrick’s Model  
 - **Tools & Platforms**: PowerPoint (for Storyboarding), Articulate Storyline, Moodle, GitHub  
 - **Expertise**: Curriculum Design, Detailed Design Documents (DDD), Storyboards (SB), Interactive eLearning courses  
 
 <p>
   <!-- Badges for visual appeal -->
-  <img src="https://img.shields.io/badge/Instructional%20Design-ADDIE-blue" alt=" ADDIE "> 
+  <img src="https://img.shields.io/badge/Instructional%20Design-ADDIE-blue" alt=" ADDIE"> 
   
-  <img src="https://img.shields.io/badge/Models-Bloom%2C%20Gagne%2C%20ARCS%2C%20Kirkpatrick-orange" alt=" Models ">
+  <img src="https://img.shields.io/badge/Models-Bloom%2C%20Gagne%2C%20ARCS%2C%20Kirkpatrick-orange" alt="Models ">
   
   <img src="https://img.shields.io/badge/Tools-Storyline%2C%20Moodle%2C%20PPT-green" alt="Tools">
 </p>
@@ -43,7 +43,7 @@ Explore my Instructional Design work, organized into subfolders for easy navigat
 👉 [**Portfolio Folder**](./portfolio)  
 
 *Includes:*  
--**In-class Assignments** – Practice exercises where I applied Curriculum Design (CD), Detailed Design Documents (DDD), and Storyboards (SB) for both ILT and WBT contexts.
+-**In class Assignments** – Practice exercises where I applied Curriculum Design (CD), Detailed Design Documents (DDD), and Storyboards (SB) for both ILT and WBT contexts.
 
 -**Capstone Project** – End-to-end design of a learning program, including analysis, CD, DDD, SB, and evaluation framework.
 

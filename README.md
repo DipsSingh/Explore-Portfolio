@@ -21,18 +21,22 @@ During my ID training, I discovered my passion for **designing engaging, learner
 
 ## Skills & Tools  
 
-- **Instructional Design Models**: ADDIE,  Bloom’s Taxonomy,  Gagné’s Nine Events,  ARCS,  Kirkpatrick’s Model  
+- **Instructional Design Models**: ADDIE,SAM.
+- **Instructional Theories***:  Bloom’s Taxonomy,  Gagné’s Nine Events,  ARCS,  Kirkpatrick’s Model,Merrill’s Principles.  
 - **Tools & Platforms**: PowerPoint (for Storyboarding), Articulate Storyline, Moodle, GitHub  
-- **Expertise**: Curriculum Design, Detailed Design Documents (DDD), Storyboards (SB), Interactive eLearning courses  
+- **Expertise**: Curriculum Design, Detailed Design Documents (DDD), Storyboards (SB), Interactive eLearning courses.  
 
 <p>
-  <!-- Badges for visual appeal -->
-  <img src="https://img.shields.io/badge/Instructional%20Design-ADDIE-blue" alt=" ADDIE"> <br>
+  <!-- Instructional Models -->
+  <img src="https://img.shields.io/badge/Models-ADDIE%2C%20SAM%2C%20Kemp-blue" alt="Instructional Models">
   
-  <img src="https://img.shields.io/badge/Models-Bloom%2C%20Gagne%2C%20ARCS%2C%20Kirkpatrick-orange" alt="Models "><br>
+  <!-- Instructional Theories -->
+  <img src="https://img.shields.io/badge/Theories-Bloom%2C%20Gagne%2C%20ARCS%2C%20Kirkpatrick-purple" alt="Instructional Theories">
   
-  <img src="https://img.shields.io/badge/Tools-Storyline%2C%20Moodle%2C%20PPT-green" alt="Tools">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Tools-Storyline%2C%20Moodle%2C%20PPT-green" alt="Instructional Tools">
 </p>
+
 
 ---
 

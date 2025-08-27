@@ -1,6 +1,6 @@
 <!-- Profile banner / photo -->
 <p align="center">
- <a href="./portfolio/" title="Click to explore my portfolio">
+ <a href="Portfolio/" title="Click to explore my portfolio">
   <img src="Portfolio/image/Dips.JPG" alt="Dipti Singh" width="150" style="border-radius:50%">
 </a>
 

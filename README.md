@@ -13,9 +13,9 @@ I am a future-ready **Instructional Designer**, transitioning my experience as a
 My journey blends **teaching expertise, creativity, and technology skills**, enabling me to design impactful learning experiences for the future of education and corporate training.
 
 
-During my ID training, I discovered my passion for **designing engaging, learner-focused experiences** that bring concepts alive on digital platforms. I enjoy applying **ID models** and using creative tools to turn learning into impactful journeys.  
+During my ID training, I discovered my passion for **designing engaging, learner-focused experiences** that bring concepts alive on digital platforms. I enjoy applying instructional design theories and models while leveraging creative tools to craft impactful learning journeys.  
 
- My goal: to craft **innovative learning solutions** that merge pedagogy, creativity, and technology.
+ My goal: to design **innovative learning solutions** that blend pedagogy, andragogy, creativity, and technology for meaningful impact.
 
 ---
 

@@ -1,6 +1,6 @@
 <!-- Profile banner / photo -->
 <p align="center">
-  <img src="YOUR_IMAGE_PATH" alt="Dipti Singh" width="150" style="border-radius:50%">
+  <img src="dips.jpg" alt="Dipti Singh" width="150" style="border-radius:50%">
 </p>
 
 <h1 align="center">Hi, I'm Dipti Singh 👋</h1>

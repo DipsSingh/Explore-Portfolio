@@ -50,20 +50,20 @@
   
 <!-- CDD Preview -->
 <h3>📄 Content Design Document (CDD)</h3>
-<img src="Portfolio/images/CD.png" alt="CDD Preview" style="max-width:100%; border:1px solid #ccc; border-radius:8px; margin:10px 0;">
+<img src="Portfolio/image/CD.png" alt="CDD Preview" style="max-width:100%; border:1px solid #ccc; border-radius:8px; margin:10px 0;">
 <p>The Content Design Document (CDD) outlines the high-level course structure, mapping learning objectives to content, strategies, and assessments.  
 <a href="[YOUR_CDD_LINK](https://docs.google.com/spreadsheets/d/1dsU4jU8vVKDIChksb0u_x7nyrgls5ENw/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true)" target="_blank" style="color:#1d4ed8;">Explore full CDD here →</a></p>
 
 <!-- DDD Preview -->
 <h3>📊 Detailed Design Document (DDD)</h3>
-<img src="Portfolio/images/M2_DDD.png" alt="DDD Module 2 Preview" style="max-width:100%; border:1px solid #ccc; border-radius:8px; margin:10px 0;">
-<img src="Portfolio/images/M3_DDD.png" alt="DDD Module 3 Preview" style="max-width:100%; border:1px solid #ccc; border-radius:8px; margin:10px 0;">
+<img src="Portfolio/image/M2_DDD.png" alt="DDD Module 2 Preview" style="max-width:100%; border:1px solid #ccc; border-radius:8px; margin:10px 0;">
+<img src="Portfolio/image/M3_DDD.png" alt="DDD Module 3 Preview" style="max-width:100%; border:1px solid #ccc; border-radius:8px; margin:10px 0;">
 <p>The Detailed Design Document (DDD) expands the CDD into screen-level detail, specifying narration, visuals, and interactivity for each module. Shown here are excerpts from Module 2 and Module 3.  
 <a href="https://docs.google.com/spreadsheets/d/1dsU4jU8vVKDIChksb0u_x7nyrgls5ENw/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" target="_blank" style="color:#1d4ed8;">Explore full DDD here →</a></p>
 
 <!-- Storyboard Preview -->
 <h3>🎨 Storyboard (SB)</h3>
-<img src="Portfolio/images/SB.png" alt="Storyboard Preview" style="max-width:100%; border:1px solid #ccc; border-radius:8px; margin:10px 0;">
+<img src="Portfolio/image/SB.png" alt="Storyboard Preview" style="max-width:100%; border:1px solid #ccc; border-radius:8px; margin:10px 0;">
 <p>The Storyboard demonstrates how content flows visually within the course. It integrates on-screen text, graphics, and interactive elements to bring the instructional design to life. This example shows a storyboard slide for Module 2.  
 <a href="YOUR_SB_LINK" target="_blank" style="color:#1d4ed8;">Explore full Storyboard here →</a></p>
 

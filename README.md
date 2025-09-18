@@ -12,7 +12,7 @@
 ---
 
 ## About Me  
-I am a future-ready **Instructional Designer**, transitioning my experience as a **Computer Science & AI Educator**  into the world of digital learning design.
+***Instructional Designer and Learning Experience Creator***, building on a career as a Computer Science & AI Educator to craft innovative, digital-first learning.
 My journey blends **teaching expertise, creativity, and technology skills**, enabling me to design impactful learning experiences for the future of education and corporate training.
 
 

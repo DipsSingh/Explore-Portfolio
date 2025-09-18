@@ -52,7 +52,7 @@
 <h3>📄 Content Design Document (CDD)</h3>
 <img src="Portfolio/image/CD.png" alt="CDD Preview" style="max-width:100%; border:1px solid #ccc; border-radius:8px; margin:10px 0;">
 <p>The Content Design Document (CDD) outlines the high-level course structure, mapping learning objectives to content, strategies, and assessments.  
-<a href="[YOUR_CDD_LINK](https://docs.google.com/spreadsheets/d/1dsU4jU8vVKDIChksb0u_x7nyrgls5ENw/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true)" target="_blank" style="color:#1d4ed8;">Explore full CDD here →</a></p>
+<a href="https://docs.google.com/spreadsheets/d/1dsU4jU8vVKDIChksb0u_x7nyrgls5ENw/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" target="_blank" style="color:#1d4ed8;">Explore full CDD here →</a></p>
 
 <!-- DDD Preview -->
 <h3>📊 Detailed Design Document (DDD)</h3>

@@ -69,7 +69,7 @@
 <h3>🎨 Storyboard (SB)</h3>
 <img src="../image/SB.png" alt="Storyboard Preview" width="400">
 <p>The Storyboard demonstrates how content flows visually within the course. It integrates on-screen text, graphics, and interactive elements to bring the instructional design to life. This example shows a storyboard slide for Module 2.  
-<a href="YOUR_SB_LINK" target="_blank" style="color:#1d4ed8;">Explore full Storyboard here →</a></p>
+<a href="https://docs.google.com/presentation/d/1mjg8K0Rvm77fjN6pJ7VZ6g7WrBP2veh_/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" target="_blank" style="color:#1d4ed8;">Explore full Storyboard here →</a></p>
 
 
   <h2 style="color:#2563eb;">🎯 Learning Outcomes</h2>

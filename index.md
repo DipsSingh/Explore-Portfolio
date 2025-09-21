@@ -43,21 +43,9 @@ During my ID training, I discovered my passion for **designing engaging, learner
 
 ---
 
-## 📂 Portfolio  
+## 📂 Capstone Project
+[👉 Psychology of Smoking – Capstone Project](Portfolio/Capstone/)
 
-Explore my Instructional Design work, organized into subfolders for easy navigation:  
-
-👉 [**Portfolio Folder**](./Portfolio)  
-
-*Includes:*  
--**In class Assignments** – Practice exercises where I applied Curriculum Design (CD), Detailed Design Documents (DDD), and Storyboards (SB) for both ILT and WBT contexts.
-
--**Capstone Project** – End-to-end design of a learning program, including analysis, CD, DDD, SB, and evaluation framework.
-
--**Gen AI Module** – Designed learning content focused on Generative AI, using ID principles and digital storytelling.
-
--**Agentic AI Module** – Created module structure and storyboard for explaining AI agents and agentic workflows in learning.<br>
-➡️ [Go to Portfolio](./Portfolio)
 
 ---
 ##  Connect With Me  

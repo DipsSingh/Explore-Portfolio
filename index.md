@@ -44,7 +44,8 @@ During my ID training, I discovered my passion for **designing engaging, learner
 ---
 
 ## 📂 Capstone Project
-[👉 Psychology of Smoking – Capstone Project](/Explore-Portfolio/Portfolio/Capstone/)
+[👉 Psychology of Smoking – Capstone Project](https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone/)
+
 
 
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Dipti Singh 👋</h1>
-<h2 align="center"> Welcome to my  Portfolio Website   hosted with GitHub Pages!  </h2>
+<h2 align="center"> Welcome to my digital portfolio – showcasing instructional design, eLearning development, and creative learning experiences.  </h2>
 <!-- Profile banner / photo -->
 <p align="center">
  <a href="Portfolio/" title="Click to explore my portfolio">

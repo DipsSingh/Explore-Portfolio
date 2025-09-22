@@ -1,9 +1,8 @@
 <div style="background-color:#f9fafc; padding:20px; border-radius:12px; color:#2c3e50; font-family:Segoe UI, Tahoma, sans-serif;">
 
   <h1 style="color:#1e3a8a; text-align:center;">🎓 Capstone Project: Psychology of Smoking</h1>
-
-  <p><strong>Project Overview:</strong>  
-  <em>Psychology of Smoking</em> is a 60-minute web-based training (WBT) designed to raise awareness about the addictive nature of smoking, its neurological effects, and strategies for quitting. This course reflects my ability to translate instructional design principles into engaging digital learning experiences.</p>
+<h2 style="color:#2563eb;">Project Overview</h2>
+ <p></p> <b >Psychology of Smoking</b> is a 60-minute web-based training (WBT) designed to raise awareness about the addictive nature of smoking, its neurological effects, and strategies for quitting. This course reflects my ability to translate instructional design principles into engaging digital learning experiences.</p>
 
   <hr style="border:1px solid #e2e8f0; margin:20px 0;">
 
@@ -97,9 +96,10 @@
 
 <h2> Module 1: The First Cigarette – Triggers and Influences  </h2>
 <p>
-An interactive eLearning module built in **Storyline 360** that explores the psychology behind smoking initiation. Featuring storytelling with voice-over, click-to-reveal exploration, and drag-and-drop formative assessment, this course delivers **Level 2 interactivity** to engage learners and reinforce key concepts.  </p>
-👉 <a href=https://drive.google.com/file/d/15t4BovxdLu6FoReuzH-7ggUW-y68nkOc/view?usp=drive_link>View Module 1</a>
-
+An interactive eLearning module built in <strong>Storyline 360 </strong> that explores the psychology behind smoking initiation. Featuring storytelling with voice-over, click-to-reveal exploration, and drag-and-drop formative assessment, this course delivers **Level 2 interactivity** to engage learners and reinforce key concepts.  </p>
+👉 <a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Psychology%20of%20Smoking_Module%201/index.html" target="_blank">
+  View Module 1 (Interactive HTML5 Course)
+</a>
 
 
 

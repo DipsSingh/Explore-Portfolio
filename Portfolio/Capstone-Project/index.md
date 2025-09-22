@@ -95,10 +95,10 @@
 
 <p>Together, these elements establish the foundation of the program by showing learners what to expect and how the modules connect as part of the overall learning journey.</p>
 
-## Module 1: The First Cigarette – Triggers and Influences  
-
-An interactive eLearning module built in **Storyline 360** that explores the psychology behind smoking initiation. Featuring storytelling with voice-over, click-to-reveal exploration, and drag-and-drop formative assessment, this course delivers **Level 2 interactivity** to engage learners and reinforce key concepts.  
-👉 [**View Module 1 (Interactive HTML5 Course)**](https://drive.google.com/file/d/15t4BovxdLu6FoReuzH-7ggUW-y68nkOc/view?usp=drive_link))  
+<h2> Module 1: The First Cigarette – Triggers and Influences  </h2>
+<p>
+An interactive eLearning module built in **Storyline 360** that explores the psychology behind smoking initiation. Featuring storytelling with voice-over, click-to-reveal exploration, and drag-and-drop formative assessment, this course delivers **Level 2 interactivity** to engage learners and reinforce key concepts.  </p><br>
+👉 <h3><b>[View Module 1 (Interactive HTML5 Course)](https://drive.google.com/file/d/15t4BovxdLu6FoReuzH-7ggUW-y68nkOc/view?usp=drive_link))</b></h3>  
 
 
 

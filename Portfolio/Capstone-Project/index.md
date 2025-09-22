@@ -98,9 +98,9 @@
 <h2> Module 1: The First Cigarette – Triggers and Influences  </h2>
 <p>
 An interactive eLearning module built in **Storyline 360** that explores the psychology behind smoking initiation. Featuring storytelling with voice-over, click-to-reveal exploration, and drag-and-drop formative assessment, this course delivers **Level 2 interactivity** to engage learners and reinforce key concepts.  </p>
-👉 <a href=./Psychology of Smoking_Module 1/index.html>View Module 1</a>
+👉 <a href=./Psychology%20of%20Smoking_Module%201/index.html>View Module 1</a>
 
-
+https://github.com/DipsSingh/Explore-Portfolio/tree/main/Portfolio/Capstone-Project/Psychology%20of%20Smoking_Module%201
 
 
   <h2 style="color:#2563eb;">🎯 Learning Outcomes</h2>

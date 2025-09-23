@@ -102,6 +102,20 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
    🚀 View Module 1 (Interactive HTML5 Course)
 </a>
 
+<h2> Module 2: Inside the Brain – Why Nicotine Hooks You</h2>
+<p>
+  An interactive eLearning module built in <strong>Storyline 360</strong> that dives into the neuroscience of nicotine addiction 
+  and its impact on the brain. Designed with storytelling as the core, it incorporates multiple engaging activities, including 
+  click-to-reveal, flip cards, hotspots, drag-and-drop exercises, and ungraded MCQ assessments. Each formative assessment is 
+  paired with diagnostic feedback, helping learners reflect on their choices and deepen understanding. A branching scenario 
+  guides learners through decision-making experiences, reinforcing key insights about how nicotine creates dependence. 
+  This module delivers <strong>Level 3 interactivity</strong>, blending narrative and scenario-based learning for deeper engagement.
+</p>
+<p>
+  <a href="https://dipsSingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module2/index.html" target="_blank">
+    <strong>Module  2: Inside the Brain – Why Nicotine Hooks You</strong>
+  </a>
+</p>
 
   <h2 style="color:#2563eb;">🎯 Learning Outcomes</h2>
   <p>By the end of this course, learners will be able to:</p>

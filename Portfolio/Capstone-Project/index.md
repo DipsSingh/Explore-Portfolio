@@ -147,6 +147,14 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
    style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
    🚀 View Module 4: Doctor’s Guidance – The Bigger Picture
 </a>
+<h2>Module 5:Your Tomorrow, Your Choice</h2>
+<p>
+  Built in <strong>Storyline 360</strong>, this capstone module uses a branching scenario where learners choose between the path of health or smoking, each leading to a motivational closure that emphasizes positive decision-making. A tab interaction reinforces key takeaways, followed by a gamified summative quiz in the form of Tic Tac Toe. Learners click squares to unlock questions, with diagnostic feedback and a win condition of earning three correct answers in a row. Successful completion unlocks a personalized certificate with name and date, which can be printed. Delivering <strong>Level 3 interactivity</strong>, this module blends scenario-based learning, <strong>gamification</strong>, and certification for maximum learner engagement.
+</p>
+<a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module5/index.html" target="_blank" 
+   style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
+   🚀 View Module 5:Your Tomorrow, Your Choice
+</a>
 
   <h2 style="color:#2563eb;">🎯 Learning Outcomes</h2>
   <p>By the end of this course, learners will be able to:</p>

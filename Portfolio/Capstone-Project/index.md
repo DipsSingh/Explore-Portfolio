@@ -112,12 +112,11 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
   guides learners through decision-making experiences, reinforcing key insights about how nicotine creates dependence. 
   This module delivers <strong>Level 3 interactivity</strong>, blending narrative and scenario-based learning for deeper engagement.
 </p>
-<p>
-  <a href="https://dipsSingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module2/index.html" target="_blank"
-    style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
-    🚀 View Module  2: Inside the Brain – Why Nicotine Hooks You
-  </a>
-</p>
+<a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module2/index.html" target="_blank" 
+   style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
+   🚀 View Module  2: Inside the Brain – Why Nicotine Hooks You
+</a>
+  
 <h2>Module 3: From Struggle to Recovery – Building Self-Efficacy & Handling Cravings</h2>
 <p>
   Developed in <strong>Storyline 360</strong>, this module focuses on strategies to overcome nicotine dependence by strengthening 

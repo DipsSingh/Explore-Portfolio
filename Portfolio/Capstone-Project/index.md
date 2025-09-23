@@ -99,7 +99,7 @@
 An interactive eLearning module built in <strong>Storyline 360 </strong> that explores the psychology behind smoking initiation. Featuring storytelling with voice-over, click-to-reveal exploration, and drag-and-drop formative assessment, this course delivers **Level 2 interactivity** to engage learners and reinforce key concepts.  </p>
 <a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module1/index.html" target="_blank" 
    style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
-   🚀 View Module 1 (Interactive HTML5 Course)
+   🚀 View Module 1 :The First Cigarette – Triggers and Influences
 </a>
 
 <h2> Module 2: Inside the Brain – Why Nicotine Hooks You</h2>
@@ -112,8 +112,23 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
   This module delivers <strong>Level 3 interactivity</strong>, blending narrative and scenario-based learning for deeper engagement.
 </p>
 <p>
-  <a href="https://dipsSingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module2/index.html" target="_blank">
-    <strong>Module  2: Inside the Brain – Why Nicotine Hooks You</strong>
+  <a href="https://dipsSingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module2/index.html" target="_blank"style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
+    <strong>🚀 View Module  2: Inside the Brain – Why Nicotine Hooks You</strong>
+  </a>
+</p>
+<h2>Module 3: From Struggle to Recovery – Building Self-Efficacy & Handling Cravings</h2>
+<p>
+  Developed in <strong>Storyline 360</strong>, this module focuses on strategies to overcome nicotine dependence by strengthening 
+  self-efficacy and managing cravings. Learners engage through true/false checks, MCQs, tab interactions, and click-to-reveal 
+  activities—all supported by diagnostic feedback to promote self-awareness and corrective learning. A branching scenario 
+  challenges learners to apply coping strategies in real-life contexts, while animated picture-and-text sequences provide 
+  relatable storytelling. The module also establishes continuity by connecting seamlessly to the next stage of the learning journey. 
+  Delivering <strong>Level 3 interactivity</strong>, it combines knowledge checks, scenario-based learning, and multimedia 
+  storytelling for impactful engagement.
+</p>
+<p>
+  <a href="https://dipsSingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module3/index.html" target="_blank"style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
+    <strong>🚀 View Module 3: From Struggle to Recovery – Building Self-Efficacy & Handling Cravings</strong>
   </a>
 </p>
 

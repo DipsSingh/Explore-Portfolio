@@ -127,12 +127,26 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
   Delivering <strong>Level 3 interactivity</strong>, it combines knowledge checks, scenario-based learning, and multimedia 
   storytelling for impactful engagement.
 </p>
-<p>
+
   <a href="https://dipsSingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module3/index.html" target="_blank"
     style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
     🚀 View Module 3: From Struggle to Recovery – Building Self-Efficacy & Handling Cravings
   </a>
+
+
+<h2>Module 4: Doctor’s Guidance – The Bigger Picture</h2>
+<p>
+  Created in <strong>Storyline 360</strong>, this module continues Ravi’s journey through storytelling, where a doctor character 
+  joins to provide insights and guidance. Narration is paired with voice-over synchronized text animations to enhance learner focus. 
+  Interactive elements such as click-to-reveal activities, hotspots, tab interactions, and drag-and-drop exercises encourage 
+  exploration and reinforce understanding. By blending narrative with interactive discovery, this module helps learners see the 
+  broader context of smoking’s impact and the path toward healthier choices. Delivering <strong>Level 2 interactivity</strong>, 
+  it balances storytelling with knowledge application for an engaging learning experience.
 </p>
+<a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module4/index.html" target="_blank" 
+   style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
+   🚀 View Module 4: Doctor’s Guidance – The Bigger Picture
+</a>
 
   <h2 style="color:#2563eb;">🎯 Learning Outcomes</h2>
   <p>By the end of this course, learners will be able to:</p>

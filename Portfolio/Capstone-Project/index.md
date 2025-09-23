@@ -113,8 +113,9 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
   This module delivers <strong>Level 3 interactivity</strong>, blending narrative and scenario-based learning for deeper engagement.
 </p>
 <p>
-  <a href="https://dipsSingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module2/index.html" target="_blank"style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
-    <strong>🚀 View Module  2: Inside the Brain – Why Nicotine Hooks You</strong>
+  <a href="https://dipsSingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module2/index.html" target="_blank"
+    style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
+    🚀 View Module  2: Inside the Brain – Why Nicotine Hooks You
   </a>
 </p>
 <h2>Module 3: From Struggle to Recovery – Building Self-Efficacy & Handling Cravings</h2>
@@ -128,8 +129,9 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
   storytelling for impactful engagement.
 </p>
 <p>
-  <a href="https://dipsSingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module3/index.html" target="_blank"style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
-    <strong>🚀 View Module 3: From Struggle to Recovery – Building Self-Efficacy & Handling Cravings</strong>
+  <a href="https://dipsSingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module3/index.html" target="_blank"
+    style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
+    🚀 View Module 3: From Struggle to Recovery – Building Self-Efficacy & Handling Cravings
   </a>
 </p>
 

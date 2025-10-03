@@ -3,7 +3,7 @@
   <h1 style="color:#1e3a8a; text-align:center;">🎓 Capstone Project </h1>
   <h1 style="color:#1e3a8a; text-align:center;"> Psychology of Smoking</h1>
 <h2 style="color:#2563eb;">Project Overview</h2>
- <p> <b >Psychology of Smoking</b> is a 60-minute web-based training (WBT) designed to raise awareness about the addictive nature of smoking, its neurological effects, and strategies for quitting. This course reflects my ability to translate instructional design principles into engaging digital learning experiences.</p>
+ <p> <b >Psychology of Smoking</b> is a 60-minute web-based training (WBT) designed to raise awareness about the addictive nature of smoking, its neurological effects, and strategies for quitting. This course reflects my ability to translate instructional design principles into engaging digital learning experiences.</p> 
 
   <hr style="border:1px solid #e2e8f0; margin:20px 0;">
 
@@ -97,7 +97,7 @@
 
 <h2> Module 1: The First Cigarette – Triggers and Influences  </h2>
 <p>
-An interactive eLearning module built in <strong>Storyline 360 </strong> that explores the psychology behind smoking initiation. Featuring storytelling with voice-over, click-to-reveal exploration, and drag-and-drop formative assessment, this course delivers **Level 2 interactivity** to engage learners and reinforce key concepts.  </p>
+An interactive eLearning module built in <strong>Storyline 360 </strong> that explores the psychology behind smoking initiation. Featuring storytelling with voice-over, click-to-reveal exploration, and drag-and-drop formative assessment, this course delivers <strong>Level 2 interactivity</strong> to engage learners and reinforce key concepts.  </p>
 <a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module1/index.html" target="_blank" 
    style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
    🚀 View Module 1 :The First Cigarette – Triggers and Influences

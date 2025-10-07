@@ -11,7 +11,7 @@
 
 ## 📂 Portfolio Contents
 
-### 🧩[Assignments](Portfolio/Assignment/index.md)  
+### 🧩[Assignments](/Assignment/index.md)  
 A collection of **classroom tasks, practice assignments, and hands-on exercises** completed during my ID sessions.  
 Includes Curriculum Design, Storyboarding (ILT/VILT), and other instructional design activities.
 

@@ -17,7 +17,7 @@ Includes Curriculum Design, Storyboarding (ILT/VILT), and other instructional de
 
 ---
 
-### 🚀 [Psychology of Smoking](Portfolio/Capstone-Project/) 
+### 🚀 [Psychology of Smoking](https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/) 
 My **major project**, demonstrating the end-to-end application of learning — from need analysis and design to development and evaluation.  
 Developed in Articulate Storyline with learner-centered design strategies.
 

@@ -11,24 +11,24 @@
 
 ## 📂 Portfolio Contents
 
-### 🧩 <a href="./Assignment/index.md">Class Assignments</a>
+### 🧩[Assignments](Portfolio/Assignment/index.md)  
 A collection of **classroom tasks, practice assignments, and hands-on exercises** completed during my ID sessions.  
 Includes Curriculum Design, Storyboarding (ILT/VILT), and other instructional design activities.
 
 ---
 
-### 🚀 <a href="./Capstone/index.md">Capstone Project</a>
+### 🚀 [Psychology of Smoking](Portfolio/Capstone-Project/) 
 My **major project**, demonstrating the end-to-end application of learning — from need analysis and design to development and evaluation.  
 Developed in Articulate Storyline with learner-centered design strategies.
 
 ---
 
-### 🤖 <a href="./GenAI/index.md">GenAI Project</a>
+### 🤖 [GenAI](Portfolio/GenAI/) 
 An introductory learning experience where **learners explore Generative AI basics**, experiment with tools, reflect on ethical use, and earn a **certificate + badge** for completion.
 
 ---
 
-### 💼 <a href="./coorporate/index.md">Negotiation Mastery: Managing Employee Expectations</a>
+### 💼 [Negotiation Mastery: Managing Employee Expectations](Portfolio/coorporate/) <br><a href="./coorporate/index.md"></a>
 A **scenario-based eLearning module** designed with **branching logic and emotional storytelling**, helping learners practice effective negotiation and communication in workplace settings.
 
 ---

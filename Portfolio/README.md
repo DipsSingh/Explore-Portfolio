@@ -23,12 +23,12 @@ Developed in Articulate Storyline with learner-centered design strategies.
 
 ---
 
-### 🤖 [GenAI](Portfolio/GenAI/) 
+### 🤖 [GenAI](Portfolio/GenAI/index.md) 
 An introductory learning experience where **learners explore Generative AI basics**, experiment with tools, reflect on ethical use, and earn a **certificate + badge** for completion.
 
 ---
 
-### 💼 [Negotiation Mastery: Managing Employee Expectations](Portfolio/coorporate/) <br><a href="./coorporate/index.md"></a>
+### 💼 [Negotiation Mastery: Managing Employee Expectations](Portfolio/coorporate/index.md) 
 A **scenario-based eLearning module** designed with **branching logic and emotional storytelling**, helping learners practice effective negotiation and communication in workplace settings.
 
 ---

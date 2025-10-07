@@ -28,7 +28,7 @@ An introductory learning experience where **learners explore Generative AI basic
 
 ---
 
-### 💼 [Negotiation Mastery: Managing Employee Expectations](Portfolio/coorporate/index.md) 
+### 💼 [Negotiation Mastery: Managing Employee Expectations](https://dipssingh.github.io/Explore-Portfolio/Portfolio/coorporate/index.md)
 A **scenario-based eLearning module** designed with **branching logic and emotional storytelling**, helping learners practice effective negotiation and communication in workplace settings.
 
 ---

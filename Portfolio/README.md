@@ -23,7 +23,7 @@ Developed in Articulate Storyline with learner-centered design strategies.
 
 ---
 
-### 🤖 [GenAI](Portfolio/GenAI/index.md) 
+### 🤖 [GenAI](/GenAI/index.md) 
 An introductory learning experience where **learners explore Generative AI basics**, experiment with tools, reflect on ethical use, and earn a **certificate + badge** for completion.
 
 ---

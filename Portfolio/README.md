@@ -11,7 +11,7 @@
 
 ## 📂 Portfolio Contents
 
-### 🧩[Assignments](https://yourusername.github.io/Explore-Portfolio/Portfolio/Assignment/) 
+### 🧩[Assignments](https://dipssingh.github.io/Explore-Portfolio/Portfolio/Assignment/) 
 A collection of **classroom tasks, practice assignments, and hands-on exercises** completed during my ID sessions.  
 Includes Curriculum Design, Storyboarding (ILT/VILT), and other instructional design activities.
 

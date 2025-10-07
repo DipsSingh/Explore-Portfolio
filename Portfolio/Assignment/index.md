@@ -16,8 +16,10 @@ The objective was to train **Hub Managers** to understand their **roles, KPIs, a
 - Includes scenario-based activities, microlearning elements, and formative checks  
 
 📄 **[View Full Curriculum Design & DDD](https://docs.google.com/spreadsheets/d/1EpdyLZr8mvphU3PqQIKPt3U5nnlEDBrQ/edit?usp=sharing&ouid=111454670665077416343&rtpof=true&sd=true)**  
-
+### Curriculum Design 
 ![Curriculum Design Screenshot](Assignment_CD.png)
+
+### Design Document
 ![ Design Document Screenshot](dd.png)
 ---
 

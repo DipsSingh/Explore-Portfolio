@@ -11,24 +11,24 @@
 
 ## 📂 Portfolio Contents
 
-### 🧩[Assignments](https://dipssingh.github.io/Explore-Portfolio/Portfolio/Assignment/) 
+### [Assignments](https://dipssingh.github.io/Explore-Portfolio/Portfolio/Assignment/) 
 A collection of **classroom tasks, practice assignments, and hands-on exercises** completed during my ID sessions.  
 Includes Curriculum Design, Storyboarding (ILT/VILT), and other instructional design activities.
 
 ---
 
-### 🚀 [Psychology of Smoking](https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/) 
+### [Psychology of Smoking](https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/) 
 My **major project**, demonstrating the end-to-end application of learning — from need analysis and design to development and evaluation.  
 Developed in Articulate Storyline with learner-centered design strategies.
 
 ---
 
-### 🤖 [GenAI](https://dipssingh.github.io/Explore-Portfolio/Portfolio/GenAI/index.md) 
+### [GenAI](https://dipssingh.github.io/Explore-Portfolio/Portfolio/GenAI/index.md) 
 An introductory learning experience where **learners explore Generative AI basics**, experiment with tools, reflect on ethical use, and earn a **certificate + badge** for completion.
 
 ---
 
-### 💼 [Negotiation Mastery: Managing Employee Expectations](https://dipssingh.github.io/Explore-Portfolio/Portfolio/coorporate/index.md)
+### [Negotiation Mastery: Managing Employee Expectations](https://dipssingh.github.io/Explore-Portfolio/Portfolio/coorporate/index.md)
 A **scenario-based eLearning module** designed with **branching logic and emotional storytelling**, helping learners practice effective negotiation and communication in workplace settings.
 
 ---

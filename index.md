@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Dipti Singh 👋</h1>
-<h2 align="center"> Welcome to my digital portfolio – showcasing instructional design, eLearning development, and learning experiences design.  </h2>
+<h2 align="center"> Welcome to my digital portfolio – showcasing Instructional Design, eLearning Development, and Learning Experiences Design.  </h2>
 <!-- Profile banner / photo -->
 <p align="center">
  <a href="Portfolio/" title="Click to explore my portfolio">

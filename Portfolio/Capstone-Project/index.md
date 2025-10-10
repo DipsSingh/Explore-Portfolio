@@ -7,10 +7,10 @@
 
   <hr style="border:1px solid #e2e8f0; margin:20px 0;">
 
-  <h2 style="color:#2563eb;">📌 Design Approach</h2>
+  <h2 style="color:#2563eb;"> Design Approach</h2>
   <p>The course design follows the <strong>ARCS Model</strong> to capture learner attention, build relevance, instill confidence, and ensure satisfaction. Content is scaffolded to support learning progression, combining multimedia, interactivity, and reflection activities.</p>
 
-  <h2 style="color:#2563eb;">📚 Module Highlights</h2>
+  <h2 style="color:#2563eb;"> Module Highlights</h2>
   <ul>
     <li><strong>Module 1:</strong> The First Cigarette – Triggers & Influences</li>
     <li><strong>Module 2:</strong> Inside the Brain – Why Nicotine Hooks You</li>
@@ -19,10 +19,10 @@
     <li><strong>Module 5:</strong> Your Tomorrow, Your Choice – Building a Smoke-Free Future</li>
   </ul>
 
-  <h2 style="color:#2563eb;">📝 Assessment Design</h2>
+  <h2 style="color:#2563eb;"> Assessment Design</h2>
   <p>Formative assessments are embedded throughout modules using quizzes, reflections, and interactions. A <strong>summative quiz</strong> evaluates learners at the end, featuring MCQs, true/false, hotspots, and scenario-based items aligned with Bloom’s taxonomy.</p>
 
-  <h2 style="color:#2563eb;">⚡ Challenges & Mitigation</h2>
+  <h2 style="color:#2563eb;"> Challenges & Mitigation</h2>
   <ul>
     <li><strong>Challenge:</strong> Limited access to free trial tools (restricted downloads and features).  
     <strong>Mitigation:</strong> Showcased outputs via screenshots, external links, and version control.</li>
@@ -30,7 +30,7 @@
     <strong>Mitigation:</strong> Maintained agile approach with continuous revisions and updates.</li>
   </ul>
 
-  <h2 style="color:#2563eb;">🛠️ Tools & Deliverables</h2>
+  <h2 style="color:#2563eb;">Tools & Deliverables</h2>
   <ul>
     <li>PowerPoint (Storyboard)</li>
     <li>Excel (CDD & DDD)</li>
@@ -46,17 +46,17 @@
     <li><code>README.md</code> – Project description (this page)</li>
   </ul>
 
-  <h2 style="color:#2563eb;">📷 Preview</h2>   
+  <h2 style="color:#2563eb;">Preview</h2>   
   
 <!-- CDD Preview -->
-<h3>📄 Content Design Document (CDD)</h3>  
+<h3> Content Design Document (CDD)</h3>  
 
 <img src="../image/CD.png" alt="CDD Preview" width="400">
 <p>The Content Design Document (CDD) outlines the high-level course structure, mapping learning objectives to content, strategies, and assessments.  
 <a href="https://docs.google.com/spreadsheets/d/1dsU4jU8vVKDIChksb0u_x7nyrgls5ENw/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" target="_blank" style="color:#1d4ed8;">Explore full CDD here →</a></p>
 
 <!-- DDD Preview -->
-<h3>📊 Detailed Design Document (DDD)</h3>
+<h3> Detailed Design Document (DDD)</h3>
 <h4> Module 2</h4>
 <img src="../image/M2_DDD.png" alt="DDD Module 2 Preview" width="400"> <br>
 <br>
@@ -66,13 +66,13 @@
 <a href="https://docs.google.com/spreadsheets/d/1dsU4jU8vVKDIChksb0u_x7nyrgls5ENw/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" target="_blank" style="color:#1d4ed8;">Explore full DDD here →</a></p>
 
 <!-- Storyboard Preview -->
-<h3>🎨 Storyboard (SB)</h3>
+<h3> Storyboard (SB)</h3>
 <img src="../image/SB.png" alt="Storyboard Preview" width="400">
 <p>The Storyboard demonstrates how content flows visually within the course. It integrates on-screen text, graphics, and interactive elements to bring the instructional design to life. This example shows a storyboard slide for Module 2.  
 <a href="https://docs.google.com/presentation/d/1mjg8K0Rvm77fjN6pJ7VZ6g7WrBP2veh_/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" target="_blank" style="color:#1d4ed8;">Explore full Storyboard here →</a></p> 
 
 
-<h2 style="color:#2563eb;">🎬 First Scene Overview – Psychology of Smoking Capstone Project</h2>
+<h2 style="color:#2563eb;"> First Scene Overview – Psychology of Smoking Capstone Project</h2>
 <!-- Video Thumbnail Linking to YouTube -->
 <p align="center">
   <a href="https://drive.google.com/file/d/1vIcQYOa29GOen54FzvpX90WfHts2IMUm/view?usp=sharing" target="_blank">
@@ -100,7 +100,7 @@
 An interactive eLearning module built in <strong>Storyline 360 </strong> that explores the psychology behind smoking initiation. Featuring storytelling with voice-over, click-to-reveal exploration, and drag-and-drop formative assessment, this course delivers <strong>Level 2 interactivity</strong> to engage learners and reinforce key concepts.  </p>
 <a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module1/index.html" target="_blank" 
    style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
-   🚀 View Module 1 :The First Cigarette – Triggers and Influences
+    View Module 1 :The First Cigarette – Triggers and Influences
 </a>
 
 <h2> Module 2: Inside the Brain – Why Nicotine Hooks You</h2>
@@ -114,7 +114,7 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
 </p>
 <a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module2/index.html" target="_blank" 
    style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
-   🚀 View Module  2: Inside the Brain – Why Nicotine Hooks You
+    View Module  2: Inside the Brain – Why Nicotine Hooks You
 </a>
   
 <h2>Module 3: From Struggle to Recovery – Building Self-Efficacy & Handling Cravings</h2>
@@ -130,7 +130,7 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
 
   <a href="https://dipsSingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module3/index.html" target="_blank"
     style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
-    🚀 View Module 3: From Struggle to Recovery – Building Self-Efficacy & Handling Cravings
+     View Module 3: From Struggle to Recovery – Building Self-Efficacy & Handling Cravings
   </a>
 
 
@@ -145,7 +145,7 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
 </p>
 <a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module4/index.html" target="_blank" 
    style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
-   🚀 View Module 4: Doctor’s Guidance – The Bigger Picture
+    View Module 4: Doctor’s Guidance – The Bigger Picture
 </a>
 <h2>Module 5:Your Tomorrow, Your Choice</h2>
 <p>
@@ -153,7 +153,7 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
 </p>
 <a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/Capstone-Project/Module5/index.html" target="_blank" 
    style="display:inline-block;padding:10px 15px;background:#007acc;color:#fff;text-decoration:none;border-radius:6px;">
-   🚀 View Module 5:Your Tomorrow, Your Choice
+   View Module 5:Your Tomorrow, Your Choice
 </a>
 
   <h2 style="color:#2563eb;">🎯 Learning Outcomes</h2>
@@ -165,7 +165,7 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
     <li>Develop confidence in planning a smoke-free future</li>
   </ul>
 
-  <h2 style="color:#2563eb;">🚀 Impact / Reflection</h2>
+  <h2 style="color:#2563eb;"> Impact / Reflection</h2>
   <p>This project demonstrates my ability to design a structured, engaging, and impactful digital learning solution. It showcases end-to-end instructional design skills, from curriculum planning to final prototype delivery.</p>
 
   <h2 style="color:#2563eb;">🔗 Access Project</h2>

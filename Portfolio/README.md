@@ -3,7 +3,7 @@
   <h1>🎓 Welcome to My Portfolio</h1>
   <p style="font-size: 1.1rem; max-width: 700px;">
     This portfolio showcases my projects, assignments, and learning modules that demonstrate my work and skills in 
-    <b>Instructional Design (ID)</b> and <b>Artificial Intelligence (AI)</b>.
+    <b>Instructional Design (ID)</b> and <b>Learning Experience Design (LXD) </b>.
   </p>
 </div>
 

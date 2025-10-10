@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Dipti Singh 👋</h1>
-<h2 align="center"> Welcome to my digital portfolio – showcasing instructional design, eLearning development, and creative learning experiences.  </h2>
+<h2 align="center"> Welcome to my digital portfolio – showcasing instructional design, eLearning development, and learning experiences design.  </h2>
 <!-- Profile banner / photo -->
 <p align="center">
  <a href="Portfolio/" title="Click to explore my portfolio">
@@ -12,7 +12,7 @@
 ---
 
 ## About Me  
-***Instructional Designer and Learning Experience Creator***, building on a career as a Computer Science & AI Educator to craft innovative, digital-first learning.
+***Instructional Designer and Learning Experience Designer***, building on a career as a Computer Science & AI Educator to craft innovative, digital-first learning.
 My journey blends **teaching expertise, creativity, and technology skills**, enabling me to design impactful learning experiences for the future of education and corporate training.
 
 

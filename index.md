@@ -43,7 +43,7 @@ During my ID training, I discovered my passion for **designing engaging, learner
 
 ---
 
-## 📂 Capstone Project
+## 📂 Projects
 [Psychology of Smoking](Portfolio/Capstone-Project/) <br>
 [Assignments](Portfolio/Assignment/index.md)
 

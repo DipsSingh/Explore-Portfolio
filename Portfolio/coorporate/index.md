@@ -1,6 +1,4 @@
 
-
-
 # Negotiation Mastery: Managing Employee Expectations
 
 **Scenario-Based eLearning | Rise 360 | Emotional Storytelling**
@@ -46,11 +44,11 @@ This interactive module simulates a high-stakes salary negotiation between an em
 ---
 ## PREVIEW
 
-Explore the design thinking and prototyping behind the course:
- [Action Mapping (Miro Board)](https://your-link-to-action-mapping.com)  
-- 📄 [Design Document (Google Doc or PDF)](https://your-link-to-design-document.com)  
-- 🖼️ [Course Prototype (Rise 360 Screenshot)](https://your-link-to-course-image.com)  
-
+Explore the design thinking and prototyping behind the course: <br>
+ - [Action Mapping (Miro Board)](https://miro.com/app/board/uXjVJ-hQMEo=/?share_link_id=891743474000)  <br>
+ 
+ - [Design Document ](https://docs.google.com/document/d/1h9H6EjGWLn1glgN1wUVprSdiO66Ego50/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true) <br>
+- [Course Prototype (Rise 360 Screenshot)](https://rise.articulate.com/authoring/iA5OJzZRp0heIiF0DUcowSw-xWezFrgN/preview)
 
 
 ## 👩‍🎓 Author

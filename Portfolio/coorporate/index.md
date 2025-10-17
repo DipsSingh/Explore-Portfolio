@@ -47,11 +47,17 @@ This interactive module simulates a high-stakes salary negotiation between an em
 
 Explore the design thinking and prototyping behind the course: <br>
 <h2>Action Mapping</h2> 
- <img src="Explore-Portfolio/Portfolio/coorporate/AActionMapping.png" alt="Action MApping Preview" width="400"> 
+ <img src="AActionMapping.png" alt="Action MApping Preview" width="400"> 
  
  - [Action Mapping (Miro Board)](https://miro.com/app/board/uXjVJ-hQMEo=/?share_link_id=891743474000)  <br>
 
+<h2>Design Document</h2> 
+ <img src="DD.png" alt="Action MApping Preview" width="400"> 
+ 
  - [Design Document ](https://docs.google.com/document/d/1h9H6EjGWLn1glgN1wUVprSdiO66Ego50/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true) <br>
+
+ <h2>Prototyping</h2> 
+ <img src="course.png" alt="Action MApping Preview" width="400"> 
  
 - [Course Prototype (Rise 360 Screenshot)](https://rise.articulate.com/authoring/iA5OJzZRp0heIiF0DUcowSw-xWezFrgN/preview)
 

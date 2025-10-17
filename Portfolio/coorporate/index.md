@@ -11,21 +11,21 @@ This interactive module simulates a high-stakes salary negotiation between an em
 
 <h2 style="color:#1e3a8a;">Learning Objectives</h2>
 <ul>
-  <li>Practice empathetic leadership in sensitive workplace conversations</li>
-  <li>Evaluate negotiation strategies and their impact on employee morale</li>
-  <li>Make ethical decisions under pressure and reflect on outcomes</li>
-  <li>Recognize the emotional consequences of managerial communication styles</li>
+  <li>Practice empathetic leadership in sensitive workplace conversations
+  <li>Evaluate negotiation strategies and their impact on employee morale
+  <li>Make ethical decisions under pressure and reflect on outcomes
+  <li>Recognize the emotional consequences of managerial communication styles
 </ul>
 
 <hr style="border:1px solid #dce1eb; margin:25px 0;">
 
 <h2 style="color:#1e3a8a;">Key Features</h2>
 <ul>
-  <li><b>Three manager response paths:</b> agreement, negotiation, refusal</li>
-  <li><b>Learner-driven branching:</b> follow-up decisions based on Riya’s reactions</li>
-  <li><b>Narration via voiceover</b> during scene transitions</li>
-  <li><b>Text-based avatar dialogue</b> for emotional clarity and accessibility</li>
-  <li><b>Modular design</b> for future expansion with Storyline integration</li>
+  <li><b>Three manager response paths:</b> agreement, negotiation, refusal
+  <li><b>Learner-driven branching:</b> follow-up decisions based on Riya’s reactions
+  <li><b>Narration via voiceover</b> during scene transitions
+  <li><b>Text-based avatar dialogue</b> for emotional clarity and accessibility
+  <li><b>Modular design</b> for future expansion with Storyline integration
 </ul>
 
 <hr style="border:1px solid #dce1eb; margin:25px 0;">
@@ -67,10 +67,12 @@ This interactive module simulates a high-stakes salary negotiation between an em
 
 <h3 style="color:#2563eb;">Action Mapping</h3>
 <img src="AActionMapping.png" alt="Action Mapping Preview" width="400"><br>
-<a href="https://miro.com/app/board/uXjVJ-hQMEo=/?share_link_id=891743474000" target="_blank">Action Mapping (Miro Board)</a>
 
+ - [Action Mapping (Miro Board)](https://miro.com/app/board/uXjVJ-hQMEo=/?share_link_id=891743474000)  <br>
+ 
 <h3 style="color:#2563eb;">Design Document</h3>
 <img src="DD.png" alt="Design Document Preview" width="400"><br>
+
 <a href="https://docs.google.com/document/d/1h9H6EjGWLn1glgN1wUVprSdiO66Ego50/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" target="_blank">View Design Document</a>
 
 <h3 style="color:#2563eb;">Prototyping</h3>

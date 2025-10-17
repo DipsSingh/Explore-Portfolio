@@ -73,12 +73,12 @@ This interactive module simulates a high-stakes salary negotiation between an em
 <h3 style="color:#2563eb;">Design Document</h3>
 <img src="DD.png" alt="Design Document Preview" width="400"><br>
 
-<a href="https://docs.google.com/document/d/1h9H6EjGWLn1glgN1wUVprSdiO66Ego50/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" target="_blank">View Design Document</a>
+ - [Design Document ](https://docs.google.com/document/d/1h9H6EjGWLn1glgN1wUVprSdiO66Ego50/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true) <br>
 
 <h3 style="color:#2563eb;">Prototyping</h3>
 <img src="course.png" alt="Course Prototype Preview" width="400"><br>
-<a href="https://rise.articulate.com/authoring/iA5OJzZRp0heIiF0DUcowSw-xWezFrgN/preview" target="_blank">Course Prototype (Rise 360 Screenshot)</a>
 
+- [Course Prototype (Rise 360 Screenshot)](https://rise.articulate.com/authoring/iA5OJzZRp0heIiF0DUcowSw-xWezFrgN/preview)
 <hr style="border:1px solid #dce1eb; margin:25px 0;">
 
 <h2 style="color:#1e3a8a;">👩‍🎓 Author</h2>

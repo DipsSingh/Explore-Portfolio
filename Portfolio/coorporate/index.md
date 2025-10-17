@@ -1,13 +1,4 @@
----
-layout: default
-title: "Negotiation Mastery: Managing Employee Expectations"
-description: "Scenario-Based eLearning | Rise 360 | Emotional Storytelling"
----
----
-layout: default
-title: "Negotiation Mastery: Managing Employee Expectations"
-description: "Scenario-Based eLearning | Rise 360 | Emotional Storytelling"
----
+
 
 # Negotiation Mastery: Managing Employee Expectations
 

@@ -3,7 +3,7 @@
 
 **Scenario-Based eLearning | Rise 360 | Emotional Storytelling**
 
-This interactive module simulates a high-stakes salary negotiation between an employee and her manager. Built in Rise 360 (free trial), it guides learners through emotionally nuanced decision-making, ethical leadership, and strategic communication.
+This interactive module simulates a high-stakes salary negotiation between an employee and her manager. Built in Rise 360, it guides learners through emotionally nuanced decision-making, ethical leadership, and strategic communication.
 
 ---
 

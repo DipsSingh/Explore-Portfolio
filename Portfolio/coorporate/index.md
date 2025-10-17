@@ -42,6 +42,9 @@ This interactive module simulates a high-stakes salary negotiation between an em
 - Rise 360 (free trial) – Development  
 
 ---
+## PREVIEW
+
+Explore the design thinking and prototyping behind the course:
 
 ## 👩‍🎓 Author
 

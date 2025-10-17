@@ -1,9 +1,10 @@
+<div style="background-color:#f9fafc; padding:20px; border-radius:12px; color:#2c3e50; font-family:Segoe UI, Tahoma, sans-serif;">
 
-# Negotiation Mastery: Managing Employee Expectations
+  <h1 style="color:#1e3a8a; text-align:center;">Negotiation Mastery: Managing Employee Expectations</h1>
+  <h2 style="color:#1e3a8a; text-align:center;"> Scenario-Based eLearning | Rise 360 | Emotional Storytelling</h2>
+<h3 style="color:#2563eb;">
 
-**Scenario-Based eLearning | Rise 360 | Emotional Storytelling**
-
-This interactive module simulates a high-stakes salary negotiation between an employee and her manager. Built in Rise 360, it guides learners through emotionally nuanced decision-making, ethical leadership, and strategic communication.
+This interactive module simulates a high-stakes salary negotiation between an employee and her manager. Built in Rise 360, it guides learners through emotionally nuanced decision-making, ethical leadership, and strategic communication.</h3>
 
 ---
 

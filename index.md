@@ -46,6 +46,7 @@ During my ID training, I discovered my passion for **designing engaging, learner
 ## 📂 Projects
 [Psychology of Smoking](Portfolio/Capstone-Project/) <br>
 [Assignments](Portfolio/Assignment/index.md)
+[Negotiation Mastery: Managing Employee Expectations](https://dipssingh.github.io/Explore-Portfolio/Portfolio/coorporate/index.md)
 
 
 ---

@@ -12,7 +12,8 @@ This interactive module simulates a high-stakes salary negotiation between an em
 
 - Practice empathetic leadership in sensitive workplace conversations  
 - Evaluate negotiation strategies and their impact on employee morale  
-- Make ethical decisions under pressure and reflect on outcomes  
+- Make ethical decisions under pressure and reflect on outcomes
+- Recognize the emotional consequences of managerial communication styles
 
 ---
 

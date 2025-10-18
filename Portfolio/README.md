@@ -37,5 +37,12 @@ A **scenario-based eLearning module** designed with **branching logic and emotio
   <p style="font-style: italic; font-size: 0.95rem;">
     Each project demonstrates a unique blend of design thinking, creativity, and technology integration for impactful learning.
   </p>
+
+  <a href="https://dipssingh.github.io/Explore-Portfolio/" 
+   target="_blank"
+   style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
+   ▶ Back
+</a>
+
 </div>
 

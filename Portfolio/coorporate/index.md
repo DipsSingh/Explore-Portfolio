@@ -92,4 +92,8 @@ This interactive module simulates a high-stakes salary negotiation between an em
 Instructional Designer | Emotional Storytelling Specialist<br>
 Expert in scenario-based learning, avatar-driven engagement, and modular asset design.
 </p>
-
+ <a href="https://dipssingh.github.io/Explore-Portfolio/" 
+   target="_blank"
+   style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
+   ▶ Back
+</a>

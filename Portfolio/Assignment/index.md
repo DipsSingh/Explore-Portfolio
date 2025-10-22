@@ -23,6 +23,12 @@ The objective was to train **Hub Managers** to understand their **roles, KPIs, a
 ![ Design Document Screenshot](dd.png)
 ---
 
+
+<a href="https://docs.google.com/spreadsheets/d/1EpdyLZr8mvphU3PqQIKPt3U5nnlEDBrQ/edit?usp=sharing&ouid=111454670665077416343&rtpof=true&sd=true"
+   target="_blank"
+   style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
+   ▶ View Document
+</a>
 ##  Storyboarding – Google Pay (ILT)
 
 ### Project Overview
@@ -51,7 +57,11 @@ Beginner users, including elderly learners new to mobile payments.
 - **Reflection Tool:** 3–2–1 review  
 
  **[View Storyboard File](https://docs.google.com/presentation/d/1Rnmt4FwYMLMe7dFqQMzqPKsO60bDnXnk/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true)**  
-
+<a href="https://docs.google.com/presentation/d/1UW7TgiZIDR4qbT7rdzzemSoRz65Sv3gh/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" 
+   target="_blank"
+   style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
+   ▶ View STORYBOARDING
+</a>
 ![Storyboard Screenshot](SB-ILT.png)
 
 ---

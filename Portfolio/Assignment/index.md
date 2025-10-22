@@ -27,7 +27,7 @@ The objective was to train **Hub Managers** to understand their **roles, KPIs, a
 <a href="https://docs.google.com/spreadsheets/d/1EpdyLZr8mvphU3PqQIKPt3U5nnlEDBrQ/edit?usp=sharing&ouid=111454670665077416343&rtpof=true&sd=true"
    target="_blank"
    style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
-   ▶ View Document
+   ▶ View Complete Document
 </a>
 <br>
 
@@ -68,7 +68,7 @@ Beginner users, including elderly learners new to mobile payments.
 <a href="https://docs.google.com/presentation/d/1UW7TgiZIDR4qbT7rdzzemSoRz65Sv3gh/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" 
    target="_blank"
    style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
-   ▶ View STORYBOARDING
+   ▶ View Complete Storyboarding
 </a>
 <br>
 

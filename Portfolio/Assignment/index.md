@@ -15,7 +15,7 @@ The objective was to train **Hub Managers** to understand their **roles, KPIs, a
 - Modular approach for **ILT** and **VILT** sessions  
 - Includes scenario-based activities, microlearning elements, and formative checks  
 
- **[View Full Curriculum Design & DDD](https://docs.google.com/spreadsheets/d/1EpdyLZr8mvphU3PqQIKPt3U5nnlEDBrQ/edit?usp=sharing&ouid=111454670665077416343&rtpof=true&sd=true)**  
+ 
 ### Curriculum Design 
 ![Curriculum Design Screenshot](Assignment_CD.png)
 
@@ -23,12 +23,13 @@ The objective was to train **Hub Managers** to understand their **roles, KPIs, a
 ![ Design Document Screenshot](dd.png)
 ---
 
-
+<br>
 <a href="https://docs.google.com/spreadsheets/d/1EpdyLZr8mvphU3PqQIKPt3U5nnlEDBrQ/edit?usp=sharing&ouid=111454670665077416343&rtpof=true&sd=true"
    target="_blank"
    style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
    ▶ View Document
 </a>
+<br>
 ##  Storyboarding – Google Pay (ILT)
 
 ### Project Overview
@@ -56,16 +57,17 @@ Beginner users, including elderly learners new to mobile payments.
 - **Safety Focus:** Do’s ✔️ and Don’ts ❌ slides  
 - **Reflection Tool:** 3–2–1 review  
 
- **[View Storyboard File](https://docs.google.com/presentation/d/1Rnmt4FwYMLMe7dFqQMzqPKsO60bDnXnk/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true)**  
+
+<Br>
+![Storyboard Screenshot](SB-ILT.png)
+
+---
 <a href="https://docs.google.com/presentation/d/1UW7TgiZIDR4qbT7rdzzemSoRz65Sv3gh/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" 
    target="_blank"
    style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
    ▶ View STORYBOARDING
 </a>
-![Storyboard Screenshot](SB-ILT.png)
-
----
-
+<br>
 *These in-class assignments demonstrate the practical application of instructional design frameworks in both corporate and skill-based learning contexts.*
 
  <a href="https://dipssingh.github.io/Explore-Portfolio/" 

@@ -3,7 +3,7 @@
   <h1 style="color:#1e3a8a; text-align:center;">🎓 Capstone Project </h1>
   <h1 style="color:#1e3a8a; text-align:center;"> Psychology of Smoking</h1>
 <h2 style="color:#2563eb;">Project Overview</h2>
- <p> <b >Psychology of Smoking</b> is a 60-minute web-based training (WBT) designed to raise awareness about the addictive nature of smoking, its neurological effects, and strategies for quitting. This course reflects my ability to translate instructional design principles into engaging digital learning experiences.</p> 
+ <p> <b >Psychology of Smoking</b> is a 45-minutes web-based training (WBT) designed to raise awareness about the addictive nature of smoking, its neurological effects, and strategies for quitting. This course reflects my ability to translate instructional design principles into engaging digital learning experiences.</p> 
 
   <hr style="border:1px solid #e2e8f0; margin:20px 0;">
 

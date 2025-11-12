@@ -73,7 +73,7 @@ responsible use of AI tools — empowering students and educators to innovate wi
 </p>
 
 <h3 style="color:#2563eb;">Prototyping</h3>
-<img src="course.png" alt="Course Prototype Preview" width="400"><br>
+<img src="GenAIbG.png" alt="Course Prototype Preview" width="400"><br>
 
 <a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/GenAI/GenAICourse/content/index.html" 
    target="_blank"

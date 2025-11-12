@@ -1,13 +1,16 @@
 <div style="background-color:#f9fafc; padding:20px; border-radius:12px; color:#2c3e50; font-family:'Segoe UI', Tahoma, sans-serif;">
 
 <h1 style="color:#1e3a8a; text-align:center;">Generative AI for School and Beyond</h1>
+
 <h2 style="color:#1e3a8a; text-align:center;">Interactive eLearning | Rise 360 | Gen AI Literacy & Ethics</h2>
+
 
 <p style="color:#2563eb; font-size:17px;">
 This interactive <b>web-based training (WBT)</b> introduces learners to the fascinating world of Generative Artificial Intelligence (GenAI). 
 Built in <b>Articulate Rise 360</b>, the 30–40 minute self-paced course simplifies complex AI concepts through relatable analogies, 
 hands-on interactivities, and guided reflection — making AI accessible to both students and educators.
 </p>
+
 
 <hr style="border:1px solid #dce1eb; margin:25px 0;">
 
@@ -22,6 +25,7 @@ hands-on interactivities, and guided reflection — making AI accessible to both
 
 <hr style="border:1px solid #dce1eb; margin:25px 0;">
 
+
 <h2 style="color:#1e3a8a;">Key Features</h2>
 <ul>
   <li><b>Modular design:</b> Four short modules with interactive activities and formative quizzes.</li>
@@ -32,6 +36,7 @@ hands-on interactivities, and guided reflection — making AI accessible to both
 </ul>
 
 <hr style="border:1px solid #dce1eb; margin:25px 0;">
+
 
 <h2 style="color:#1e3a8a;">Course Structure</h2>
 <ul>
@@ -44,6 +49,7 @@ hands-on interactivities, and guided reflection — making AI accessible to both
 </ul>
 
 <hr style="border:1px solid #dce1eb; margin:25px 0;">
+
 
 <h2 style="color:#1e3a8a;">Instructional Design Highlights</h2>
 <ul>
@@ -66,5 +72,11 @@ responsible use of AI tools — empowering students and educators to innovate wi
 <b>Certificate of Completion:</b> Issued automatically upon passing the final quiz.
 </p>
 
+
+<a href="https://dipssingh.github.io/Explore-Portfolio/" 
+   target="_blank"
+   style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
+   ▶ Back
+</a>
 </div>
 

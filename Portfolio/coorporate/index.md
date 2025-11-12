@@ -73,12 +73,17 @@ This interactive module simulates a high-stakes salary negotiation between an em
 <h3 style="color:#2563eb;">Design Document</h3>
 <img src="DD.png" alt="Design Document Preview" width="400"><br>
 
- <a href="https://docs.google.com/document/d/1h9H6EjGWLn1glgN1wUVprSdiO66Ego50/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" target="_blank">View Design Document</a>
+ <a href="https://drive.google.com/file/d/1l_OPJTwBpz88dQ_MNQZgN1whgU69qWaL/view?usp=drive_link" target="_blank">View Design Document</a>
 
 <h3 style="color:#2563eb;">Prototyping</h3>
 <img src="course.png" alt="Course Prototype Preview" width="400"><br>
 
-<a href="https://rise.articulate.com/authoring/iA5OJzZRp0heIiF0DUcowSw-xWezFrgN/preview" target="_blank">Course Prototype (Rise 360 Screenshot)</a>
+<a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/coorporate/Negotiation_course/index.html" 
+   target="_blank"
+   style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
+   ▶ View Course
+</a>
+
 
 <hr style="border:1px solid #dce1eb; margin:25px 0;">
 
@@ -87,4 +92,8 @@ This interactive module simulates a high-stakes salary negotiation between an em
 Instructional Designer | Emotional Storytelling Specialist<br>
 Expert in scenario-based learning, avatar-driven engagement, and modular asset design.
 </p>
-</div>
+ <a href="https://dipssingh.github.io/Explore-Portfolio/" 
+   target="_blank"
+   style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
+   ▶ Back
+</a>

@@ -3,7 +3,7 @@
   <h1 style="color:#1e3a8a; text-align:center;">🎓 Capstone Project </h1>
   <h1 style="color:#1e3a8a; text-align:center;"> Psychology of Smoking</h1>
 <h2 style="color:#2563eb;">Project Overview</h2>
- <p> <b >Psychology of Smoking</b> is a 60-minute web-based training (WBT) designed to raise awareness about the addictive nature of smoking, its neurological effects, and strategies for quitting. This course reflects my ability to translate instructional design principles into engaging digital learning experiences.</p> 
+ <p> <b >Psychology of Smoking</b> is a 45-minutes web-based training (WBT) designed to raise awareness about the addictive nature of smoking, its neurological effects, and strategies for quitting. This course reflects my ability to translate instructional design principles into engaging digital learning experiences.</p> 
 
   <hr style="border:1px solid #e2e8f0; margin:20px 0;">
 
@@ -174,6 +174,11 @@ An interactive eLearning module built in <strong>Storyline 360 </strong> that ex
     - 🎞️ <a href="https://docs.google.com/presentation/d/1mjg8K0Rvm77fjN6pJ7VZ6g7WrBP2veh_/edit?usp=drive_link&ouid=111454670665077416343&rtpof=true&sd=true" target="_blank" style="color:#1d4ed8;">View Storyboard</a><br>
     - 🌐 <a href="https://360.articulate.com/review/content/90bd6f67-b94e-41fd-a671-aa8b4f827b45/review" target="_blank" style="color:#1d4ed8;">Launch Prototype</a>
   </p>
-
+ 
+ <a href="https://dipssingh.github.io/Explore-Portfolio/" 
+   target="_blank"
+   style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
+   ▶ Back
+</a>
 </div>
 

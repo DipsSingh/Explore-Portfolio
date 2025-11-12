@@ -46,8 +46,8 @@ During my ID training, I discovered my passion for **designing engaging, learner
 ## 📂 Projects
 [Psychology of Smoking](Portfolio/Capstone-Project/) <br>
 [Assignments](Portfolio/Assignment/index.md) <br>
-[Negotiation Mastery: Managing Employee Expectations](Portfolio/coorporate/index.md)
-
+[Negotiation Mastery: Managing Employee Expectations](Portfolio/coorporate/index.md)<br>
+[Gen AI:For school and Beyond ](Portfolio/GenAI/index.md)
 
 ---
 ##  Connect With Me  

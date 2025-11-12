@@ -72,7 +72,14 @@ responsible use of AI tools — empowering students and educators to innovate wi
 <b>Certificate of Completion:</b> Issued automatically upon passing the final quiz.
 </p>
 
+<h3 style="color:#2563eb;">Prototyping</h3>
+<img src="course.png" alt="Course Prototype Preview" width="400"><br>
 
+<a href="https://dipssingh.github.io/Explore-Portfolio/Portfolio/GenAI/GenAICourse/content/index.html" 
+   target="_blank"
+   style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
+   ▶ View Course
+</a>
 <a href="https://dipssingh.github.io/Explore-Portfolio/" 
    target="_blank"
    style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">

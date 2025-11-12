@@ -80,6 +80,8 @@ responsible use of AI tools — empowering students and educators to innovate wi
    style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
    ▶ View Course
 </a>
+<br>
+
 <a href="https://dipssingh.github.io/Explore-Portfolio/" 
    target="_blank"
    style="display:inline-block; padding:10px 18px; background-color:#0078D7; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">

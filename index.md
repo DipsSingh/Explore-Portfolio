@@ -21,44 +21,50 @@ Today, my work focuses on transforming complex information, systems, and subject
 > **My approach:** Design learning that is simple to understand, engaging to experience, and meaningful to apply.
 
 ---
-
 ## What I Work On
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎯Instructional Design
+<h3>🎯 Instructional Design</h3>
 
-* Learning Experience Design
-* Instructional Strategy
-* Content Structuring
-* Learning Objectives
-* Storyboarding
-* Scaffolding
-* Assessment & Knowledge Checks
-* SME Collaboration
-* Learning Evaluation
+<ul>
+<li>Learning Experience Design</li>
+<li>Instructional Strategy</li>
+<li>Content Structuring</li>
+<li>Learning Objectives</li>
+<li>Storyboarding</li>
+<li>Scaffolding</li>
+<li>Assessment & Knowledge Checks</li>
+<li>SME Collaboration</li>
+<li>Learning Evaluation</li>
+</ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 Digital Learning
+<h3>💻 Digital Learning</h3>
 
-* eLearning Development
-* Instructional Videos
-* System Training
-* User Guides
-* Simulations
-* Self-Service Learning
-* Certification Pathways
-* Learning Content QA
-* Digital Learning Production
+<ul>
+<li>eLearning Development</li>
+<li>Instructional Videos</li>
+<li>System Training</li>
+<li>User Guides</li>
+<li>Simulations</li>
+<li>Self-Service Learning</li>
+<li>Certification Pathways</li>
+<li>Learning Content QA</li>
+<li>Digital Learning Production</li>
+</ul>
 
 </td>
+
 </tr>
 </table>
+
 
 ---
 
@@ -151,69 +157,83 @@ Key areas of work:
 
 ---
 
-# 📂 Featured Portfolio
+<h2>📂 Featured Portfolio</h2>
 
-Explore selected instructional design and digital learning projects.
+<p>
+  Explore selected instructional design and digital learning projects showcasing my approach to learning design, content development, and technology-enabled learning.
+</p>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🧠 Psychology of Smoking
+<h3>🧠 Psychology of Smoking</h3>
 
-Instructional design capstone demonstrating learning analysis, instructional strategy, content structuring, assessment design and interactive learning.
+<p>
+An instructional design capstone demonstrating learning analysis, instructional strategy, content structuring, assessment design, and interactive learning.
+</p>
 
-<br>
-
+<p>
 <a href="Portfolio/Capstone-Project/">
 <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge" alt="View Psychology Project">
 </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤝 Negotiation Mastery
+<h3>🤝 Negotiation Mastery</h3>
 
-A corporate learning project focused on managing employee expectations through workplace scenarios and learner-centered design.
+<p>
+A corporate learning project focused on managing employee expectations through workplace scenarios and learner-centered instructional design.
+</p>
 
-<br>
-
+<p>
 <a href="Portfolio/coorporate/index.md">
 <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge" alt="View Negotiation Project">
 </a>
+</p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 GenAI: For School & Beyond
+<h3>🤖 GenAI: For School & Beyond</h3>
 
+<p>
 A learning project exploring practical applications of Generative AI in education and digital learning.
+</p>
 
-<br>
-
+<p>
 <a href="Portfolio/GenAI/index.md">
 <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge" alt="View GenAI Project">
 </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📖 Instructional Design Assignments
+<h3>📖 Instructional Design Assignments</h3>
 
-A collection demonstrating the application of instructional design models, learning theories, storyboarding, assessment and eLearning development.
+<p>
+A collection demonstrating the application of instructional design models, learning theories, storyboarding, assessment design, and eLearning development.
+</p>
 
-<br>
-
+<p>
 <a href="Portfolio/Assignment/index.md">
-<img src="https://img.shields.io/badge/View%20Projects-6C63FF?style=for-the-badge" alt="View Assignments">
+<img src="https://img.shields.io/badge/View%20Projects-6C63FF?style=for-the-badge" alt="View Instructional Design Assignments">
 </a>
+</p>
 
 </td>
+
 </tr>
 </table>
 

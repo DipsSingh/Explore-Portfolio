@@ -96,7 +96,7 @@ Designed and developed <strong>end-to-end professional certification programs</s
 
 <img src="https://img.shields.io/badge/eLearning%20Development-6C63FF?style=flat-square" alt="eLearning Development">
 </p>
-
+<hr>
 <!-- ========================================================= -->
 <!-- SKILLS & TOOLS                                           -->
 <!-- ========================================================= -->
@@ -180,10 +180,90 @@ Designed and developed <strong>end-to-end professional certification programs</s
 
 <br>
 
-<p align="center">
-<strong>🤖 AI for Learning:</strong>
-Generative AI • Agentic AI • AI-assisted Content Development • AI-enabled Learning Design
+<hr>
+<!-- ========================================================= -->
+<!-- FEATURED PORTFOLIO                                       -->
+<!-- ========================================================= -->
+
+<h2>📂 Featured Portfolio</h2>
+
+<p>
+Explore selected instructional design and digital learning projects showcasing my approach to learning design, content development, and technology-enabled learning.
 </p>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧠 Psychology of Smoking</h3>
+
+<p>
+An instructional design capstone demonstrating learning analysis, instructional strategy, content structuring, assessment design, and interactive learning.
+</p>
+
+<p>
+<a href="Portfolio/Capstone-Project/">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge" alt="View Psychology Project">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤝 Negotiation Mastery</h3>
+
+<p>
+A corporate learning project focused on managing employee expectations through workplace scenarios and learner-centered instructional design.
+</p>
+
+<p>
+<a href="Portfolio/coorporate/index.md">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge" alt="View Negotiation Project">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 GenAI: For School &amp; Beyond</h3>
+
+<p>
+A learning project exploring practical applications of Generative AI in education and digital learning.
+</p>
+
+<p>
+<a href="Portfolio/GenAI/index.md">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge" alt="View GenAI Project">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📖 Instructional Design Assignments</h3>
+
+<p>
+A collection demonstrating the application of instructional design models, learning theories, storyboarding, assessment design, and eLearning development.
+</p>
+
+<p>
+<a href="Portfolio/Assignment/index.md">
+<img src="https://img.shields.io/badge/View%20Projects-6C63FF?style=for-the-badge" alt="View Instructional Design Assignments">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <hr>
 
@@ -193,24 +273,32 @@ Generative AI • Agentic AI • AI-assisted Content Development • AI-enabled 
 
 <h2>🤝 Let's Connect</h2>
 
-<div align="center">
+<table align="Left">
+<tr>
 
-<a href="https://dipssingh.github.io/Explore-Portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Explore-6C63FF?style=for-the-badge" alt="Portfolio">
-</a>
-&nbsp;&nbsp;
+<td>
 <a href="https://www.linkedin.com/in/dipti-singh-6421a62a0">
-<img src="https://img.shields.io/badge/LinkedIn-Dipti%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Dipti%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+     alt="Dipti Singh">
 </a>
-&nbsp;&nbsp;
+</td>
+
+<td>&nbsp;&nbsp;</td>
+
+<td>
 <a href="mailto:diptichouhan.singh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+     alt="Contact Me">
 </a>
+</td>
 
-</div>
+</tr>
+</table>
 
-<br>
-
+<br><br>
+<hr>
 <p align="center">
 <strong>✨ Simplifying complexity. Enabling performance. ✨</strong>
 </p>
+<br>
+

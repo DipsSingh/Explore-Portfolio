@@ -256,20 +256,34 @@ This experience continues to shape my instructional design approach by bringing 
 
 ---
 
-##  Areas I'm Passionate About
+<h2> Areas I'm Passionate About</h2>
+
+<p>
+I enjoy creating learning experiences that connect <strong>people, technology, and business needs</strong>.
+</p>
 
 <p align="center">
 
-•  **Enterprise Learning**<br>
-•  **eLearning**  <br> 
-•  **HR Systems Training**  <br> 
-•  **Learning Experience Design**  <br> 
-•  **Instructional Videos**  <br> 
-•  **AI for Learning**   <br> 
-•  **Professional Certification**   <br> 
-•  **Digital Learning**
+<img src="https://img.shields.io/badge/Enterprise%20Learning-6C63FF?style=for-the-badge" alt="Enterprise Learning">
+
+<img src="https://img.shields.io/badge/eLearning-7B61FF?style=for-the-badge" alt="eLearning">
+
+<img src="https://img.shields.io/badge/HR%20Systems%20Training-635BFF?style=for-the-badge" alt="HR Systems Training">
+
+<img src="https://img.shields.io/badge/Learning%20Experience%20Design-7057C7?style=for-the-badge" alt="Learning Experience Design">
+
+<br>
+
+<img src="https://img.shields.io/badge/Instructional%20Videos-6C63FF?style=for-the-badge" alt="Instructional Videos">
+
+<img src="https://img.shields.io/badge/AI%20for%20Learning-7B61FF?style=for-the-badge" alt="AI for Learning">
+
+<img src="https://img.shields.io/badge/Professional%20Certification-635BFF?style=for-the-badge" alt="Professional Certification">
+
+<img src="https://img.shields.io/badge/Digital%20Learning-7057C7?style=for-the-badge" alt="Digital Learning">
 
 </p>
+
 
 ---
 

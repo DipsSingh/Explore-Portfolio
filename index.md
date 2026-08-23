@@ -12,49 +12,270 @@
 ---
 
 ## About Me  
-***Instructional Designer and Learning Experience Designer***, building on a career as a Computer Science & AI Educator to craft innovative, digital-first learning.
-My journey blends **teaching expertise, creativity, and technology skills**, enabling me to design impactful learning experiences for the future of education and corporate training.
+I am a **Senior Instructional Designer and Learning Experience Designer** with 18+ years of experience spanning **education, curriculum development, digital learning, and enterprise Learning & Development**.
 
+My journey began in **Computer Science and AI education**, where I designed curriculum, developed digital learning experiences, and trained educators and learners on emerging technologies. I later transitioned into corporate Learning & Development, combining my background in **pedagogy, technology, creativity, and instructional design** to create learner-centered digital experiences.
 
-During my ID training, I discovered my passion for **designing engaging, learner-focused experiences** that bring concepts alive on digital platforms. I enjoy applying instructional design theories and models while leveraging creative tools to craft impactful learning journeys.  
+Today, my work focuses on transforming complex information, systems, and subject-matter expertise into **clear, structured, engaging, and job-relevant learning experiences**.
 
- My goal: to design **innovative learning solutions** that blend pedagogy, andragogy, creativity, and technology for meaningful impact.
+> **My approach:** Design learning that is simple to understand, engaging to experience, and meaningful to apply.
 
 ---
 
-## Skills & Tools  
+## What I Work On
 
-- **Instructional Design Models**: ADDIE,SAM.
-- **Instructional Theories***:  Bloom’s Taxonomy,  Gagné’s Nine Events,  ARCS,  Kirkpatrick’s Model,Merrill’s Principles.  
-- **Tools & Platforms**: PowerPoint (for Storyboarding), Articulate Storyline, Moodle, GitHub  
-- **Expertise**: Curriculum Design, Detailed Design Documents (DDD), Storyboards (SB), Interactive eLearning courses.  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯Instructional Design
+
+* Learning Experience Design
+* Instructional Strategy
+* Content Structuring
+* Learning Objectives
+* Storyboarding
+* Scaffolding
+* Assessment & Knowledge Checks
+* SME Collaboration
+* Learning Evaluation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Digital Learning
+
+* eLearning Development
+* Instructional Videos
+* System Training
+* User Guides
+* Simulations
+* Self-Service Learning
+* Certification Pathways
+* Learning Content QA
+* Digital Learning Production
+
+</td>
+</tr>
+</table>
+
+---
+
+## Professional Experience
+
+### 🔹 Learning Manager — GSK
+
+Currently working on **HR Process & Systems learning**, designing and enhancing digital learning solutions that support employees in navigating enterprise HR processes and systems.
+
+My work includes:
+
+* Designing **user guides, instructional videos, eLearning modules and simulations**
+* Enhancing self-service learning content
+* Working with SMEs and Learning Leads to develop and update learning materials
+* Analysing system changes and their learning impact
+* Creating learning solutions aligned with accessibility, functionality and brand standards
+
+#### HR Systems & Learning Platforms
 
 <p>
-  <!-- Instructional Models -->
-  <img src="https://img.shields.io/badge/Models-ADDIE%2C%20SAM%2C%20-blue" alt="Instructional Models"> <br>
-  
-  <!-- Instructional Theories -->
-  <img src="https://img.shields.io/badge/Theories-Bloom%2C%20Gagne%2C%20ARCS%2C%20Kirkpatrick-purple" alt="Instructional Theories"><br>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Tools-Storyline%2C%20Moodle%2C%20PPT-green" alt="Instructional Tools">
+<img src="https://img.shields.io/badge/Workday-0875E1?style=flat-square" alt="Workday">
+<img src="https://img.shields.io/badge/Phenom-4B3F72?style=flat-square" alt="Phenom">
+<img src="https://img.shields.io/badge/HR%20ServiceNow-00A1E0?style=flat-square" alt="HR ServiceNow">
+<img src="https://img.shields.io/badge/SAP%20SuccessFactors-008FD3?style=flat-square" alt="SAP SuccessFactors">
+<img src="https://img.shields.io/badge/Degreed-Learning-5B4B8A?style=flat-square" alt="Degreed">
+<img src="https://img.shields.io/badge/LMS%20%7C%20LXP-6C63FF?style=flat-square" alt="LMS LXP">
 </p>
 
+**Focus:** HR Systems Learning • Business User Training • Self-Service Learning • eLearning • Instructional Videos • Simulations
 
 ---
 
-## 📂 Projects
-[Psychology of Smoking](Portfolio/Capstone-Project/) <br>
-[Assignments](Portfolio/Assignment/index.md) <br>
-[Negotiation Mastery: Managing Employee Expectations](Portfolio/coorporate/index.md)<br>
-[Gen AI:For school and Beyond ](Portfolio/GenAI/index.md)
+###  Instructional Designer Consultant — ansrsource | Coursera
+
+Worked on **end-to-end digital learning and professional certification programs for Coursera**, including programs developed in partnership with **Microsoft**.
+
+Key areas of work:
+
+* Designed and developed professional certificate learning experiences
+* Redeveloped existing courses by identifying learning gaps and improving instructional structure
+* Audited and enhanced Microsoft Professional Certificate courses
+* Transformed **29–35 short courses into structured certification pathways**
+* Designed and launched **10+ short courses**
+* Created video scripts and visual storyboards
+* Curated and scaffolded content to improve learner flow
+* Collaborated with SMEs, designers and stakeholders
+* Conducted instructional and platform QA
+* Led and coordinated Instructional Designers across certification projects
+
+**Focus:** Professional Certificates • Coursera • Microsoft Programs • Learning Pathways • Content Architecture • Storyboarding • eLearning QA
 
 ---
-##  Connect With Me  
 
-- 📧 Email: diptichouhan.singh@gmail.com 
-- 💼 LinkedIn: www.linkedin.com/in/dipti-singh-6421a62a0  
+##  Skills & Tools
+
+### Instructional Design
+
+<p>
+<img src="https://img.shields.io/badge/ADDIE-6C63FF?style=for-the-badge" alt="ADDIE">
+<img src="https://img.shields.io/badge/SAM-7057C7?style=for-the-badge" alt="SAM">
+<img src="https://img.shields.io/badge/Bloom's%20Taxonomy-7B61FF?style=for-the-badge" alt="Bloom's Taxonomy">
+<img src="https://img.shields.io/badge/Gagné's Nine Events-635BFF?style=for-the-badge" alt="Gagné's Nine Events">
+<img src="https://img.shields.io/badge/ARCS-7057C7?style=for-the-badge" alt="ARCS">
+<img src="https://img.shields.io/badge/Merrill's Principles-7B61FF?style=for-the-badge" alt="Merrill's Principles">
+<img src="https://img.shields.io/badge/UbD-8A63D2?style=for-the-badge" alt="UbD">
+<img src="https://img.shields.io/badge/WWHAA-6C63FF?style=for-the-badge" alt="WWHAA">
+<img src="https://img.shields.io/badge/Kirkpatrick-8A63D2?style=for-the-badge" alt="Kirkpatrick">
+<img src="https://img.shields.io/badge/LXD-635BFF?style=for-the-badge" alt="LXD">
+<img src="https://img.shields.io/badge/Scaffolding-7057C7?style=for-the-badge" alt="Scaffolding">
+</p>
+
+### eLearning & Content Development
+
+<p>
+<img src="https://img.shields.io/badge/Articulate%20Storyline-2C2C2C?style=for-the-badge" alt="Articulate Storyline">
+<img src="https://img.shields.io/badge/Rise%20360-2C2C2C?style=for-the-badge" alt="Rise 360">
+<img src="https://img.shields.io/badge/Synthesia-2C2C2C?style=for-the-badge" alt="Synthesia">
+<img src="https://img.shields.io/badge/Camtasia-2C2C2C?style=for-the-badge" alt="Camtasia">
+</p>
+
+### Learning Platforms & Digital Tools
+
+<p>
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
+<img src="https://img.shields.io/badge/Moodle-F58220?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle">
+<img src="https://img.shields.io/badge/Schoology-2C2C2C?style=for-the-badge" alt="Schoology">
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro">
+<img src="https://img.shields.io/badge/GenAI-6C63FF?style=for-the-badge" alt="Generative AI">
+</p>
 
 ---
 
-<p align="center">✨ Always exploring ways to make learning impactful and engaging ✨</p>
+# 📂 Featured Portfolio
+
+Explore selected instructional design and digital learning projects.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Psychology of Smoking
+
+Instructional design capstone demonstrating learning analysis, instructional strategy, content structuring, assessment design and interactive learning.
+
+<br>
+
+<a href="Portfolio/Capstone-Project/">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge" alt="View Psychology Project">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤝 Negotiation Mastery
+
+A corporate learning project focused on managing employee expectations through workplace scenarios and learner-centered design.
+
+<br>
+
+<a href="Portfolio/coorporate/index.md">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge" alt="View Negotiation Project">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 GenAI: For School & Beyond
+
+A learning project exploring practical applications of Generative AI in education and digital learning.
+
+<br>
+
+<a href="Portfolio/GenAI/index.md">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge" alt="View GenAI Project">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📖 Instructional Design Assignments
+
+A collection demonstrating the application of instructional design models, learning theories, storyboarding, assessment and eLearning development.
+
+<br>
+
+<a href="Portfolio/Assignment/index.md">
+<img src="https://img.shields.io/badge/View%20Projects-6C63FF?style=for-the-badge" alt="View Assignments">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Background
+
+Before transitioning into corporate Learning & Development, I worked as a **Senior Educator, Curriculum Developer and Academic Coordinator**.
+
+My academic experience included:
+
+* Curriculum design and development
+* Digital learning creation
+* AI in education
+* Educator training
+* Project-based learning
+* Technology-enabled learning
+
+This experience continues to shape my instructional design approach by bringing together **pedagogy, technology and creativity**.
+
+---
+
+##  Areas I'm Passionate About
+
+<p align="center">
+
+•  **Enterprise Learning**<br>
+•  **eLearning**  <br> 
+•  **HR Systems Training**  <br> 
+•  **Learning Experience Design**  <br> 
+•  **Instructional Videos**  <br> 
+•  **AI for Learning**   <br> 
+•  **Professional Certification**   <br> 
+•  **Digital Learning**
+
+</p>
+
+---
+
+##  Let's Connect
+
+<div align="center">
+
+<a href="https://dipssingh.github.io/Explore-Portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Explore-6C63FF?style=for-the-badge" alt="Portfolio">
+</a>
+
+<a href="https://www.linkedin.com/in/dipti-singh-6421a62a0">
+<img src="https://img.shields.io/badge/LinkedIn-Dipti%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:diptichouhan.singh@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ✨ Designing Learning. Simplifying Complexity. Enabling Performance.
+
+</div>
+

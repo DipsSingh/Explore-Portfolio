@@ -255,7 +255,7 @@ A collection demonstrating the application of instructional design models, learn
 </p>
 
 <p>
-<a href="Portfolio/Assignment/">
+<a href="Portfolio/Assignment/index.md">
 <img src="https://img.shields.io/badge/View%20Projects-6C63FF?style=for-the-badge" alt="View Instructional Design Assignments">
 </a>
 </p>

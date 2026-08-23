@@ -273,7 +273,6 @@ I enjoy creating learning experiences that connect <strong>people, technology, a
 <img src="https://img.shields.io/badge/Learning%20Experience%20Design-7057C7?style=for-the-badge" alt="Learning Experience Design">
 
 <br>
-
 <img src="https://img.shields.io/badge/Instructional%20Videos-6C63FF?style=for-the-badge" alt="Instructional Videos">
 
 <img src="https://img.shields.io/badge/AI%20for%20Learning-7B61FF?style=for-the-badge" alt="AI for Learning">

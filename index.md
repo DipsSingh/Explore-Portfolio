@@ -219,7 +219,7 @@ A corporate learning project focused on managing employee expectations through w
 </p>
 
 <p>
-<a href="Portfolio/coorporate/index.md">
+<a href="Portfolio/coorporate/">
 <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge" alt="View Negotiation Project">
 </a>
 </p>
@@ -239,7 +239,7 @@ A learning project exploring practical applications of Generative AI in educatio
 </p>
 
 <p>
-<a href="Portfolio/GenAI/index.md">
+<a href="Portfolio/GenAI/">
 <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge" alt="View GenAI Project">
 </a>
 </p>
@@ -255,7 +255,7 @@ A collection demonstrating the application of instructional design models, learn
 </p>
 
 <p>
-<a href="Portfolio/Assignment/index.md">
+<a href="Portfolio/Assignment/">
 <img src="https://img.shields.io/badge/View%20Projects-6C63FF?style=for-the-badge" alt="View Instructional Design Assignments">
 </a>
 </p>
